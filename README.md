@@ -20,7 +20,7 @@ Esta es una aplicación Android simple que permite al usuario realizar la suma d
   <img src="https://github.com/user-attachments/assets/0bf4482e-f50b-4b88-b655-d81a20b2198f" alt="Error punto del decimal" style="height: 300px; width: auto;" />
 </p>
 
-<p align="center">
+<p>
   <strong>Solo permite números, y un máximo de un <code>.</code> y un <code>-</code> solo al principio.</strong>
 </p>
 
