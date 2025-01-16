@@ -10,18 +10,30 @@ Esta es una aplicación Android simple que permite al usuario realizar la suma d
 
 ## Capturas de Pantalla
 
-![Interfaz Calculadora](![image](https://github.com/user-attachments/assets/92dcc066-55f3-44db-aa40-281418e30777))
-![Error primer input](![image](https://github.com/user-attachments/assets/2b2a8d0d-f10d-4b1e-b303-5b2f68e2c4a2))
-![Error segundo input](![image](https://github.com/user-attachments/assets/f2867c45-ad9f-4074-b314-4387f7899a45))
-![Error punto del decimal](![image](https://github.com/user-attachments/assets/0bf4482e-f50b-4b88-b655-d81a20b2198f))
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b2a8d0d-f10d-4b1e-b303-5b2f68e2c4a2" alt="Error primer input" style="height: 300px; width: auto;" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f2867c45-ad9f-4074-b314-4387f7899a45" alt="Error segundo input" style="height: 300px; width: auto;" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0bf4482e-f50b-4b88-b655-d81a20b2198f" alt="Error punto del decimal" style="height: 300px; width: auto;" />
+</p>
 
-**Solo permite numeros, y un maximo de un . y un - solo al principio**
+<p align="center">
+  <strong>Solo permite números, y un máximo de un <code>.</code> y un <code>-</code> solo al principio.</strong>
+</p>
 
-![Ejemplo de resultado sin decimales](![image](https://github.com/user-attachments/assets/9748e5c4-92ab-411e-a932-198193016b06))
-![Ejemplo de resultado con 2 decimales](![image](https://github.com/user-attachments/assets/96150e72-3214-47b8-af1a-97fba482f24f)
-)
-![Ejemplo de resultado con 5 decimales](![image](https://github.com/user-attachments/assets/0842bc98-085e-4a0d-ad5d-078b02dba54a)
-)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9748e5c4-92ab-411e-a932-198193016b06" alt="Ejemplo de resultado sin decimales" style="height: 300px; width: auto;" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/96150e72-3214-47b8-af1a-97fba482f24f" alt="Ejemplo de resultado con 2 decimales" style="height: 300px; width: auto;" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0bf8fe5f-4ae9-4273-81c5-b7e726d4a291" alt="Ejemplo de resultado con 5 decimales" style="height: 300px; width: auto;" />
+</p>
+
 
 ## Instrucciones de Compilación
 
