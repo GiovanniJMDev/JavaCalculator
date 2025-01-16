@@ -34,6 +34,15 @@ Esta es una aplicación Android simple que permite al usuario realizar la suma d
   <img src="https://github.com/user-attachments/assets/0bf8fe5f-4ae9-4273-81c5-b7e726d4a291" alt="Ejemplo de resultado con 5 decimales" style="height: 300px; width: auto;" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c4e9119-ddff-4058-8d80-3be335ad03e7" alt="Ejemplo de resultado de suma de un negativo" style="height: 300px; width: auto;" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a387c55f-a0fd-4ee0-9508-94b59a7e4acb" alt="Ejemplo de resultado de suma de dos negativo" style="height: 300px; width: auto;" />
+</p>
+
+
 
 ## Instrucciones de Compilación
 
